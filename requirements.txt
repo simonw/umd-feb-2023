@@ -1,4 +1,6 @@
 datasette
-datasette-x-forwarded-host
+datasette-codespaces
+datasette-configure-fts
+datasette-edit-schema
 sqlite-utils
 geojson-to-sqlite
