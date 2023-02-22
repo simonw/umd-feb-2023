@@ -1,3 +1,4 @@
 datasette
+datasette-x-forwarded-host
 sqlite-utils
 geojson-to-sqlite
